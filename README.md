@@ -16,4 +16,5 @@ So the program should print 1 65 - 1 full hour is passed since midnight, 65 full
 8. [Write a program to calculate the distance between two points.
 ](Day008.md)
 9. [Given a three-digit number. Find the sum of its digits.       ](Day009.md)
-10.[Given an integer, print "odd" if it's odd and print "even" otherwise.](Day010.md)
+10. [Given an integer, print "odd" if it's odd and print "even" otherwise.](Day010.md)
+11. [Given a month - an integer from 1 to 12, print the number of days in it in the year 2017.](Day011.md)
