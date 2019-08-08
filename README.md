@@ -20,3 +20,8 @@ So the program should print 1 65 - 1 full hour is passed since midnight, 65 full
 11. [Given a month - an integer from 1 to 12, print the number of days in it in the year 2017.](Day011.md)
 12. [Given the year number. You need to check if this year is a leap year. If it is, print LEAP, otherwise print COMMON.](Day012.md)
 13. [Given three integers, print the least of them.](Day013.md)
+14. [Write a program that receives a number on the input.
+If the number is a multiple of 3, it prints "Jugs". 
+If the number is a multiple of 5, it prints "Mugs".
+If the number is a multiple of both 3 and 5, it prints "JugsMugs".
+Otherwise, it prints the number.](Day014.md)
