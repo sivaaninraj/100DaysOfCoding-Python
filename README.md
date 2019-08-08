@@ -19,3 +19,4 @@ So the program should print 1 65 - 1 full hour is passed since midnight, 65 full
 10. [Given an integer, print "odd" if it's odd and print "even" otherwise.](Day010.md)
 11. [Given a month - an integer from 1 to 12, print the number of days in it in the year 2017.](Day011.md)
 12. [Given the year number. You need to check if this year is a leap year. If it is, print LEAP, otherwise print COMMON.](Day012.md)
+13. [Given three integers, print the least of them.](Day013.md)
