@@ -57,3 +57,5 @@ SPECIAL REQUIREMENT:
 Try and limit the number of conditional statements to not more than 4. 
 And use only one print statement.
 ](Day018.md)
+19. [JugsMugsPugsPlus and Reverse
+](Day019.md)
