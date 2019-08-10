@@ -59,3 +59,4 @@ And use only one print statement.
 ](Day018.md)
 19. [JugsMugsPugsPlus and Reverse
 ](Day019.md)
+20. [JugsMugsPugsPlusReverse Range](Day020.md)
