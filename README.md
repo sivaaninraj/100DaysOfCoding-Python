@@ -60,3 +60,4 @@ And use only one print statement.
 19. [JugsMugsPugsPlus and Reverse
 ](Day019.md)
 20. [JugsMugsPugsPlusReverse Range](Day020.md)
+21. [JugsMugsPugsPlusReverse with atmost 2 conditional statements](Day021.md)
