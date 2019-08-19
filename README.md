@@ -64,3 +64,4 @@ And use only one print statement.
 22. [Sum of N numbers](Day022.md)
 23. [Sum of cubes](Day023.md)
 24. [Sum of factorials](Day024.md)
+25. [Ladder](Day025.md)
