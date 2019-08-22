@@ -75,3 +75,4 @@ And use only one print statement.
 33. [Strings: Replace in fragment](Day033.md)
 34. [Lists : Even Indices](Day034.md)
 35. [Lists : Even Elements](Day035.md)
+36. [Lists: Greater than left neighbor](Day036.md)
