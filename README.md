@@ -67,3 +67,4 @@ And use only one print statement.
 25. [Ladder](Day025.md)
 26. [Lost Card](Day026.md)
 27. [Second maximum](Day027.md)
+28. [JugMugsPugs Special](Day028.md)
