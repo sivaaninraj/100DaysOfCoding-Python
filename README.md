@@ -71,3 +71,4 @@ And use only one print statement.
 29. [SpyPlane](Day029.md)
 30. [String : Slices](Day030.md)
 31. [Strings: Remove fragment](Day031.md)
+32. [Strings: Reverse fragment](Day032.md)
