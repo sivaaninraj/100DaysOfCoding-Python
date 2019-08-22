@@ -65,3 +65,4 @@ And use only one print statement.
 23. [Sum of cubes](Day023.md)
 24. [Sum of factorials](Day024.md)
 25. [Ladder](Day025.md)
+26. [Lost Card](Day026.md)
