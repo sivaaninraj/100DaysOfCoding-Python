@@ -74,3 +74,4 @@ And use only one print statement.
 32. [Strings: Reverse fragment](Day032.md)
 33. [Strings: Replace in fragment](Day033.md)
 34. [Lists : Even Indices](Day034.md)
+35. [Lists : Even Elements]{Day035.md)
