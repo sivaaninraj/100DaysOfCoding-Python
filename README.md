@@ -69,3 +69,4 @@ And use only one print statement.
 27. [Second maximum](Day027.md)
 28. [JugMugsPugs Special](Day028.md)
 29. [SpyPlane](Day029.md)
+30. [String : Slices](Day030.md)
