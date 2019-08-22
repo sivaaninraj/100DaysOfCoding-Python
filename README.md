@@ -66,3 +66,4 @@ And use only one print statement.
 24. [Sum of factorials](Day024.md)
 25. [Ladder](Day025.md)
 26. [Lost Card](Day026.md)
+27. [Second maximum] (Day027.md)
